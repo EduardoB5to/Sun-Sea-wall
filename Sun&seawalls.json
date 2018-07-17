@@ -114,10 +114,22 @@
       "name": "Wall19",
       "thumbnail": "https://raw.githubusercontent.com/EduardoB5to/Sun-Sea-wall/master/Wall19%20(1).jpg"
     },
+        {
+      "author": "UnSplash",
+      "url": "https://raw.githubusercontent.com/EduardoB5to/Sun-Sea-wall/master/Wall20.jpg",
+      "name": "Wall20",
+      "thumbnail": "https://raw.githubusercontent.com/EduardoB5to/Sun-Sea-wall/master/Wall20%20(1).jpg"
+    },
+        {
+      "author": "UnSplash",
+      "url": "https://raw.githubusercontent.com/EduardoB5to/Sun-Sea-wall/master/Wall21.jpg",
+      "name": "Wall21",
+      "thumbnail": "https://raw.githubusercontent.com/EduardoB5to/Sun-Sea-wall/master/Wall21%20(1).jpg"
+    },
     {
      "author": "UnSplash",
       "url": "https://raw.githubusercontent.com/EduardoB5to/Sun-Sea-wall/master/Wall20.jpg",
-      "name": "Wall20",
+      "name": "Wall22",
       "thumbnail": "https://raw.githubusercontent.com/EduardoB5to/Sun-Sea-wall/master/Wall20%20(1).jpg"
     }
   ]
